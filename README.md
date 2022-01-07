@@ -81,7 +81,7 @@ RABBIT_PASSWORD=$ADMIN_PASSWORD
 SERVICE_PASSWORD=$ADMIN_PASSWORD
 ```
 
-**OBS:** Use `ctrl + o` para salvar o arquivo, aperte enter para confirmar o nome do arquivo e em seguide use `ctrl + x` para fechar o nano.
+**OBS:** Use `ctrl + o` para salvar o arquivo, aperte enter para confirmar o nome e em seguide use `ctrl + x` para fechar o nano.
 
 Por fim, execute o arquivo de instalação do OpenStack:
 
