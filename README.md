@@ -52,7 +52,7 @@ $ echo "stack ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/stack
 $ sudo -u stack -i
 ```
 
-O OpenStack será baixado de um repositório do GitHub portanto precisamos baixar o git:
+O OpenStack será baixado de um repositório do OpenDev portanto precisamos baixar o git:
 
 ```
 $ sudo apt install git
@@ -88,5 +88,3 @@ Por fim, execute o arquivo de instalação do OpenStack:
 ```
 $ ./stack.sh
 ```
-
-Para garantir que a instalação foi finalizada com sucesso basta acessar o Horizon
