@@ -93,12 +93,12 @@ Para confirmar a instalação precisamos acessar o [Horizon](https://docs.openst
 
 ## Conectando o OSM com o OpenStack
 
-Abra o dashboard do OSM e procure por "VIM Accounts", em seguida clique em "New VIM", um formulário irá aparecer.
+Abra o dashboard do OSM e procure por "VIM Accounts", em seguida clique em "New VIM".
 
 Minhas configurações ficaram assim:
 
 ![Configurações da conta VIM.](/images/osm-vim-account-info.png)
 
-**OBS:** O campo URL é o endereço onde o OpenStack está rodando localmente + `/identity/v3`, geralmente esse endereço é `192.168.15.107`
+**OBS:** O campo URL é o endereço onde o OpenStack está rodando localmente + `/identity/v3`, geralmente esse endereço é `192.168.15.107`.
 
 ## Adicionando uma VNF
