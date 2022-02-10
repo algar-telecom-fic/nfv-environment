@@ -106,5 +106,3 @@ Minhas configurações ficaram assim:
 ## Adicionando uma VNF
 
 O OSM possui um [servidor FTP](https://osm-download.etsi.org/ftp/Packages/examples/) onde disponibilizam exemplos de NFVs, nesse caso baixei a "cirros_alarm_ns.tar.gz" e "cirros_alarm_vnf.tar.gz" para testar.
-
-Após fazer o download vá até o dashboard do OSM
